@@ -1,17 +1,17 @@
-# Especificação de Requisitos
+#  📋 Especificação de Requisitos
 
-## Introdução
+## 👋 Introdução
 
 Este documento apresenta os requisitos do sistema **Finis**, uma aplicação de controle financeiro pessoal. O objetivo é descrever de forma clara e objetiva as funcionalidades esperadas, bem como os requisitos não funcionais que devem ser atendidos para garantir a usabilidade, desempenho e segurança do sistema.
 
 Os requisitos aqui listados servirão como base para o desenvolvimento, testes e validação do sistema.
 
-## Escopo
+##  🎯 Escopo
 
 O sistema permitirá o gerenciamento de receitas, despesas, categorias financeiras, geração de relatórios e exportação de dados. Funcionalidades bancárias ou de integração direta com instituições financeiras não fazem parte do escopo desta versão.
 
 <details>
-<summary>  <h2>Requisitos funcionas do usuário </h2>  </summary>
+<summary>  <h2> ✅ Requisitos funcionas do usuário </h2>  </summary>
 
 
 
@@ -54,10 +54,11 @@ O sistema permitirá o gerenciamento de receitas, despesas, categorias financeir
 
 
 
+<details>
+  <summary> <h2> ✅ Requisitos  Funcionais do Sistema </h2></summary>
 
 
-## Requisitos  Funcionais do Sistema
-
+  
  <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -155,11 +156,15 @@ O sistema permitirá o gerenciamento de receitas, despesas, categorias financeir
     </tr>
   </tbody>
 </table>
+</details>
+
+ 
 
 
+<details> 
+<summary> <h2> ⚙️ Requisitos Não Funcionais </h2> </summary>
 
-## Requisitos Não Funcionais
-
+  
 <table border="1" cellspacing="0" cellpadding="8">
   <thead>
     <tr>
@@ -299,6 +304,10 @@ O sistema permitirá o gerenciamento de receitas, despesas, categorias financeir
     </tr>
   </tbody>
 </table>
+
+</details>
+
+       
 
 
 
